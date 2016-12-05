@@ -453,9 +453,12 @@ PlayerSettings:
   XboxOnePersistentLocalStorageSize: 0
   vrEditorSettings: {}
   cloudServicesEnabled:
-    Build: 1
-    UNet: 1
-  cloudProjectId: 613cddef-ba46-447f-bef9-7bf49add1f6a
-  projectName: unity-ads-assetstore-cloudbuild
-  organizationId: rasmus_test
+    Build: 0
+    Collab: 0
+    ErrorHub: 0
+    Hub: 0
+    UNet: 0
+  cloudProjectId: 
+  projectName: 
+  organizationId: 
   cloudEnabled: 0
